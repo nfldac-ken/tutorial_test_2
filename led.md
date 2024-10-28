@@ -15,6 +15,8 @@ basic.forever(function () {
 
 ## All the MakeCode
 
+Second Step
+
 ```blocks
 basic.forever(function () {
     led.toggle(randint(0, 4), randint(0, 4))
